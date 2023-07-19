@@ -14,6 +14,6 @@ The aim is to create a clustering model using the kmeans algorithm, using the fo
  3. Age, Annual Income and Spending Score
 
 For each model, the Elbow Method is used to determine the number of clusters and visualized the clusters by a scatterplot. 
-The last model is used to associate some customers to a cluster, the result is exported to an EXCEL file called *mall_customers_prediction.xlsx* containing two columns:
+The last model is used to associate some customers in mall_customers_predict.csv to a cluster, the result is exported to an EXCEL file called *mall_customers_prediction.xlsx* containing two columns:
  - **CustomerID**: the customer identification code.
  - **Customer Group**: the cluster to which it belongs.
